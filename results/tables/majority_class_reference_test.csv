@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1
+majority_class_reference,0.75,0.0,0.0,0.0
