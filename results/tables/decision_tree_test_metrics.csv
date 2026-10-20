@@ -1,0 +1,3 @@
+model,feature_set,max_depth,min_samples_leaf,class_weight,accuracy,precision,recall,f1
+decision_tree,baseline,5,5,balanced,0.6548275862068965,0.38707037643207853,0.6524137931034483,0.4858757062146893
+decision_tree,expanded,10,50,balanced,0.6272413793103448,0.36892488954344627,0.6910344827586207,0.4810369659145463

@@ -257,7 +257,7 @@ plt.show()
 plt.close(fig)
 
 # Set True only when all model and ensemble choices are finalized.
-RUN_FINAL_TEST = False
+RUN_FINAL_TEST = True
 
 if RUN_FINAL_TEST:
     train_validation = pd.concat(
